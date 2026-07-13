@@ -1,5 +1,26 @@
-<h1 align="center">Hello, This is Emamul Sheikh</h1>
+<img src="https://i.ibb.co.com/4RxtMcNf/Emamul-Sheikh-full-stack-Web-Designer-Web-Developer-wordpress-web-developer-banner.jpg" alt="Emamul-Sheikh-full-stack-Web-Designer-Web-Developer-wordpress-web-developer-banner" border="0" width="100%" />
+
+
+<br><br>
+<h1 align="center">Hello, This is  Emamul Sheikh</h1>
+
 <h3 align="center">Passionate web designer, developer, and WordPress expert dedicated to building modern, responsive, and user-friendly websites. from India</h3>
+
+<p>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1200&color=22C55E&center=true&vCenter=true&width=800&lines=Passionate+Web+Designer;Full+Stack+Web+Developer;WordPress+Expert;Building+Modern+Responsive+Websites;Always+Learning+New+Technologies" alt="Typing SVG" />
+</p>
+
+<p>
+
+<img src="https://img.shields.io/badge/Open%20to-Collaboration-success?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/Focus-Web%20Development-blue?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/WordPress-Expert-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=22C55E" />
+
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=webdeveloperes&label=Profile%20views&color=0e75b6&style=flat" alt="webdeveloperes" /> </p>
 
