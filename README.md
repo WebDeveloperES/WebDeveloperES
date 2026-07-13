@@ -7,13 +7,11 @@
 
 - 🌱 I’m currently learning **HTML5, CSS3, JaveScript, jQuery, Bootstrap, PHP, MySQL, WordPress**
 
-- 👨‍💻 All of my projects are available at [portfoloilink](portfoloilink)
+- 👨‍💻 All of my projects are available at [https://webdeveloperes.github.io/Portfolio/](https://webdeveloperes.github.io/Portfolio/)
 
 - 💬 Ask me about **Web Design, Web Development, WordPress Development, Web Application**
 
 - 📫 How to reach me **emamulhasanimon20@gmail.com**
-
-- 📄 Know about my experiences [mycv](mycv)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
