@@ -179,8 +179,7 @@ I enjoy building modern, secure and responsive websites while maintaining reliab
 
 # 🌍 Connect With Me
 
-<p align="center">
-
+<p>
 <a href="mailto:emamulhasanimon20@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
@@ -194,7 +193,7 @@ emamulsheikhebd">
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-<a href="https://facebook.com/emamulsheikhbd">
+<a href="https://web.facebook.com/emamulsheikhbd">
 <img src="https://skillicons.dev/icons?i=facebook"/>
 </a>
 
