@@ -25,6 +25,11 @@ Building Secure IT Infrastructure & Modern Responsive Web Solutions
 ---
 
 <p align="center">
+<img src="https://img.shields.io/badge/Open%20to-Collaboration-success?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/Focus-Web%20Development-blue?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/WordPress-Expert-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
 
 <img src="https://komarev.com/ghpvc/?username=webdeveloperes&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 
