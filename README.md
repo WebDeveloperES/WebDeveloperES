@@ -171,7 +171,7 @@ Your support motivates me to continue learning and sharing useful projects.
 
 <p align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:6dd5ed,100:2193b0&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:000000,100:2193b0&section=footer"/>
 
 </p>
 
@@ -180,5 +180,5 @@ Your support motivates me to continue learning and sharing useful projects.
 </h3>
 
 <p align="center">
-IT Administrator • Full Stack Web Developer • WordPress Developer
+Web Designer • Full Stack Web Developer • WordPress Developer
 </p>
