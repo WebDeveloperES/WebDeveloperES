@@ -43,8 +43,7 @@ I am **Emamul Sheikh**, an **IT Administrator**, **Full Stack Web Developer**, a
 I enjoy building secure, responsive and high-performance websites while managing IT infrastructure.
 
 ### Highlights
-
-- 💼 IT Administrator
+- 🌐  Web Design
 - 🌐 Full Stack Web Developer
 - ⚙️ WordPress Developer
 - 📚 Currently learning HTML5, CSS3, JavaScript, jQuery, Bootstrap, PHP, MySQL, WordPress.
@@ -65,27 +64,13 @@ I enjoy building secure, responsive and high-performance websites while managing
 
 ---
 
-# 🌍 Connect With Me
-
-<p align="center">
-
-<a href="mailto:yourmail@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
-
-<a href="https://linkedin.com/in/YOURUSERNAME">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-<a href="https://github.com/YOURUSERNAME">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
-<a href="https://facebook.com/YOURUSERNAME">
-<img src="https://skillicons.dev/icons?i=facebook"/>
-</a>
-
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/emamulsheikhebd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emamulsheikhebd" height="30" width="40" /></a>
+<a href="https://fb.com/emamulsheikhbd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="emamulsheikhbd" height="30" width="40" /></a>
+<a href="https://instagram.com/emamulsheikhbd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="emamulsheikhbd" height="30" width="40" /></a>
 </p>
+
 
 ---
 
