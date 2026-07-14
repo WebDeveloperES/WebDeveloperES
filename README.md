@@ -26,7 +26,7 @@ Building Secure IT Infrastructure & Modern Responsive Web Solutions
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=webdeveloperes&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 
 <img src="https://img.shields.io/github/followers/WebDeveloperES?style=for-the-badge"/>
 
