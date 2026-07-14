@@ -54,9 +54,11 @@ I enjoy building modern, secure and responsive websites while maintaining reliab
 - 🌐 Full Stack Web Developer
 - 🛒 WordPress Developer
 - 🔥 PHP & MySQL Developer
+- 👨‍💻 All of my projects are available at https://github.com/WebDeveloperES
 - 📚 Currently learning HTML5, CSS3, JavaScript, jQuery, Bootstrap, PHP, MySQL, WordPress
-- 💬 Ask me about HTML, CSS, Bootstrap, JavaScript, PHP, MySQL & WordPress, Web design, Web Development, WordPress Development, Web Application.
-- 📧 emamulhasanimon20@gmail.com
+- 💬 Ask me about  Web design, Web Development, WordPress Development, Web Application.
+- 📧  How to reach me emamulhasanimon20@gmail.com
+- 📄 Know about my experiences 
 
 ---
 
@@ -115,14 +117,14 @@ I enjoy building modern, secure and responsive websites while maintaining reliab
 
 # 📚 Currently Learning
 
-- Laravel
-- React.js
+- HTML5
+- CSS3
 - Advanced PHP
-- REST API
-- MySQL Optimization
-- Clean Code
-- Design Patterns
-
+- JavaScript
+- MySQL 
+- jQuery
+- Bootstrap
+- WordPress
 ---
 
 # 🛠 Services
