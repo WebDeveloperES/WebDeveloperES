@@ -25,7 +25,6 @@ Building Secure IT Infrastructure & Modern Responsive Web Solutions
 ---
 
 <p align="center">
-<img src="https://img.shields.io/badge/Open%20to-Collaboration-success?style=for-the-badge" />
 
 <img src="https://img.shields.io/badge/Focus-Web%20Development-blue?style=for-the-badge" />
 
