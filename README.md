@@ -11,7 +11,7 @@ Hello, This is  Emamul Sheikh
 </h1>
 
 <h3 align="center">
-IT Administrator | Full Stack Web Developer | WordPress Developer
+Web Designer | Full Stack Web Developer | WordPress Developer
 </h3>
 
 <p align="center">
@@ -20,11 +20,17 @@ Building Secure IT Infrastructure & Modern Responsive Web Solutions
 
 <p align="center">
 
-![](https://komarev.com/ghpvc/?username=webdeveloperes&color=blue)
+<img src="https://img.shields.io/badge/Focus-Web%20Development-blue?style=for-the-badge" />
 
-![](https://img.shields.io/github/followers/webdeveloperes?style=for-the-badge)
+<img src="https://img.shields.io/badge/WordPress-Expert-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
 
-![](https://img.shields.io/github/stars/webdeveloperes?affiliations=OWNER&style=for-the-badge)
+<img src="https://komarev.com/ghpvc/?username=webdeveloperes&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/followers/webdeveloperes?style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/stars/webdeveloperes?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Open%20To-Work-brightgreen?style=for-the-badge"/>
 
 </p>
 
