@@ -171,7 +171,7 @@ Your support motivates me to continue learning and sharing useful projects.
 
 <p align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:000000,100:2193b0&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0F2027,50:203A43,100:2C5364&section=footer"/>
 
 </p>
 
