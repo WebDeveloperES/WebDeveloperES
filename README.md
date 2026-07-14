@@ -33,9 +33,9 @@ Building Secure IT Infrastructure & Modern Responsive Web Solutions
 
 <img src="https://komarev.com/ghpvc/?username=webdeveloperes&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 
-<img src="https://img.shields.io/github/followers/WebDeveloperES?style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/webdeveloperes?style=for-the-badge"/>
 
-<img src="https://img.shields.io/github/stars/WebDeveloperES?style=for-the-badge"/>
+<img src="https://img.shields.io/github/stars/webdeveloperes?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/Open%20To-Work-brightgreen?style=for-the-badge"/>
 
