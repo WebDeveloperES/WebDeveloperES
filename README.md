@@ -34,17 +34,12 @@ Building Secure IT Infrastructure & Modern Responsive Web Solutions
 
 <img src="https://img.shields.io/github/stars/webdeveloperes?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Open%20To-Work-brightgreen?style=for-the-badge"/>
-
 </p>
 
 ---
+## 👨‍💻 About Me
 
-# 👨‍💻 About Me
-
-I am **Emamul Sheikh**, an **IT Administrator**, **Full Stack Web Developer**, and **WordPress Developer** from Bangladesh.
-
-I enjoy building secure, responsive and high-performance websites while managing IT infrastructure.
+I'm **Emamul Sheikh**, a Web Designer and Full Stack Web Developer from Bangladesh. I specialize in PHP, MySQL, WordPress, and modern web technologies, with a passion for creating secure, responsive, and high-performance websites.
 
 ### Highlights
 - 🌐  Web Design
@@ -53,7 +48,6 @@ I enjoy building secure, responsive and high-performance websites while managing
 - 📚 Currently learning HTML5, CSS3, JavaScript, jQuery, Bootstrap, PHP, MySQL, WordPress.
 - 💬 Ask me about Web Design,Web Development,WordPress Development,Web Application,Digital Marketing,SEO
 - 👨‍💻 All of my projects are available at https://github.com/WebDeveloperES
-- 📍 Bangladesh
 - 📧 How to reach me emamulhasanimon20@gmail.com
 - 📄 Know about my experiences
 
