@@ -46,7 +46,7 @@ I'm **Emamul Sheikh**, a Web Designer and Full Stack Web Developer from Banglade
 - 🌐 Full Stack Web Developer
 - ⚙️ WordPress Developer
 - 📚 Currently learning  **HTML5, CSS3, JavaScript, jQuery, Bootstrap, PHP, MySQL, WordPress.**
-- 💬 Ask me about  **Web Design,Web Development,WordPress Development,Web Application,Digital Marketing,SEO**
+- 💬 Ask me about  **Web Design,Web Development,WordPress Development,Web Application**
 - 👨‍💻 All of my projects are available at https://github.com/WebDeveloperES
 - 📧 How to reach me emamulhasanimon20@gmail.com
 - 📄 Know about my experiences
