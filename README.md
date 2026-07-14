@@ -18,6 +18,10 @@ Web Designer | Full Stack Web Developer | WordPress Developer
 Building Secure IT Infrastructure & Modern Responsive Web Solutions
 </p>
 
+<p>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1200&color=22C55E&center=true&vCenter=true&width=800&lines=Passionate+Web+Designer;Full+Stack+Web+Developer;WordPress+Expert;Building+Modern+Responsive+Websites;Always+Learning+New+Technologies" alt="Typing SVG" />
+</p>
+
 <p align="center">
 
 <img src="https://img.shields.io/badge/Focus-Web%20Development-blue?style=for-the-badge" />
