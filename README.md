@@ -183,21 +183,16 @@ I enjoy building modern, secure and responsive websites while maintaining reliab
 <a href="mailto:emamulhasanimon20@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
-
-<a href="www.linkedin.com/in/
-emamulsheikhebd">
+<a href="www.linkedin.com/in/emamulsheikhebd">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
-
 <a href="https://github.com/webdeveloperes">
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
-
 <a href="https://web.facebook.com/emamulsheikhbd">
 <img src="https://skillicons.dev/icons?i=facebook"/>
 </a>
 
-</p>
 
 ---
 
