@@ -157,6 +157,43 @@ My goal is to become an expert Full Stack Web Developer and IT Infrastructure Sp
 </p>
 
 ---
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=webdeveloperes&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=webdeveloperes&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=webdeveloperes&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophy
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=webdeveloperes&theme=algolia&margin-w=15"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=webdeveloperes&theme=react-dark"/>
+
+</p>
+
+
 
 # ❤️ Support My Work
 
