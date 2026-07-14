@@ -179,7 +179,7 @@ I enjoy building modern, secure and responsive websites while maintaining reliab
 
 # 🌍 Connect With Me
 
-<p>
+<p align="center">
 <a href="mailto:emamulhasanimon20@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
