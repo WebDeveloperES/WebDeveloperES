@@ -152,6 +152,9 @@ My goal is to become an expert Full Stack Web Developer and IT Infrastructure Sp
 <a href="https://linkedin.com/in/emamulsheikhebd">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge">
 </a>
+<a href="https://facebook.com/emamulsheikhebd">
+<img src="https://img.shields.io/badge/Facebook-Connect-blue?style=for-the-badge">
+</a>
 
 <a href="https://github.com/webdeveloperes">
 <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge">
